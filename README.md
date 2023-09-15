@@ -36,3 +36,5 @@
   <a href = "mailto:davifieledeus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/davi-cruz-de-souza-381859244/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+![Snake animation](https://github.com/DaviProgrm/github/workflow/DaviProgrm/blob/output/github-contribution-grid-snake.svg)
