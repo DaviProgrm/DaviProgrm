@@ -1,7 +1,6 @@
-### Olá Eu sou Davi
+### Olá Eu sou Davi Estudante de Analise e Desenvolvimento de Sistemas pelo EAJ-UFRN
 
 - 🌱 Estudando Kotlin/Java
-- 😄 Pronouns: ele/dele
 
   ##
 
