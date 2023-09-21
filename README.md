@@ -1,6 +1,6 @@
 ### Olá!! Sou Davi, Estudante de Analise e Desenvolvimento de Sistemas pela EAJ-UFRN.
 
-- 🌱 Estudando Kotlin/Java
+- 🌱 Estudando Kotlin/Java/C++
 
   ##
 
