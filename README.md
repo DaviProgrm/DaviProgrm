@@ -4,10 +4,10 @@
 
   ##
 
-<a href="https://github.com/DaviProgrm/github-readme-stats">
+<a href="https://github.com/davicruz23/github-readme-stats">
   <img height=200 align="center"src="https://github-readme-stats.vercel.app/api?username=DaviProgrm&layout=compact&langs_count=8&card_width=320&theme=dracula" />
 </a>
-<a href="https://github.com/DaviProgrm/convoychat">
+<a href="https://github.com/davicruz23/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DaviProgrm&layout=compact&langs_count=8&card_width=320&theme=dracula" />
 </a>
 <div style="display: inline_block"><br>
